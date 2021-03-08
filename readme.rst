@@ -2,6 +2,7 @@
 EVA - ACADEMIC EVENT SYSTEM
 EVA - SISTEMA DE EVENTOS ACADÊMICOS
 ############################
+PHP-MYSQL
 
 S-EVA: Um Sistema para Controle de eventos acadêmicos baseado em um projeto de
 Base de Dados Relacional.
